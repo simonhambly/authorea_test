@@ -1,1 +1,1 @@
-Welcome to Authorea!
+Testing Authorea and linking to a github repo
